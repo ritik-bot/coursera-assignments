@@ -16,6 +16,8 @@ section {
 p {
   padding: 10px;
   clear: both;
+  margin: 0px;
+  
 }
 
 h2 {
@@ -26,7 +28,8 @@ h2 {
   width:120px;
   position: relative;
   left: 1px;
-  bottom: 21px;
+  bottom: 1px;
+  margin: 0px;
 }
 
 .bg-col-1 {
