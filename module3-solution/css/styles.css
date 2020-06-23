@@ -1,0 +1,32 @@
+body {
+	box-sizing: border-box;
+	font-family: 'Nova Square', cursive;
+}
+#passage {
+	background-color: grey;
+	margin:auto 5px 5px;
+	padding: 10px;
+
+	
+}
+body div{
+	padding: 15px;
+}
+
+
+
+
+p{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+h2{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-brand{
+	font-size: 40px;
+	color: black;
+}
